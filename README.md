@@ -1,9 +1,6 @@
 ## Microsoft Sentinel Training Lab
 This project would be a walkthrough on how to setup the Microsoft Sentinel workspace and analyze ingested data.
 
-Full playlist: https://www.youtube.com/playlist?list=PLn_e1t8tt2VrcsdRp51dZ6y30xrpMszKq
-https://github.com/Azure/Azure-Sentinel/blob/master/Solutions/Training/Azure-Sentinel-Training-Lab/Modules/Module-1-Setting-up-the-environment.md
-
 ### A. Choose a subscription (Azure for student or trial 31 days)
 Go to Microsoft Sentinel, create a workspace by enter resource group and instance name.
 
